@@ -1,0 +1,16 @@
+d0ed1c6bdfa0e378ab57839eafc68030 *DESCRIPTION
+7472d0d2e9efe348e328220df91a8992 *NAMESPACE
+2073d097669440fd3f3c56960011520c *R/exampleData.document.R
+3fc5900b181496df879ea506084a05ba *R/package.document.R
+a472a470bec977cfd1d60409008c8af2 *R/tag.search.R
+35547a9bfde7c0a46c655521ea2ec95d *R/tag.spectra.butterflyplot.R
+e37a07bac666e374f415351171d89fd9 *R/tag.spectra.listplot.R
+d7befb3ab6430035067c2b1a98533172 *data/myoglobin.rda
+0333250dc8a666e1a00f0f422528edb0 *man/myoglobin.Rd
+91015dc56af40870ca5da0eb752c566a *man/protag.Rd
+3622613852e7da1c065f0df7c72ad6c5 *man/tag.search.Rd
+4a917b424c7882b557e57556f4f9ec68 *man/tag.spectra.butterflyplot.Rd
+7be585d258d17de57f3a3915e6071a3b *man/tag.spectra.listplot.Rd
+531eb841f9e07406fc03473cd05c2a07 *tests/testthat.R
+80510152ea63d64ce19c14b4b3667fb2 *tests/testthat/test.plots.R
+95df89a7d904f0c0f78f345157c3836b *tests/testthat/test.tag.search.R
